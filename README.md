@@ -25,7 +25,7 @@ npm install
 Start the application:
 
 ```bash
-npm start
+node bluebutton_node_listener.js 
 ```
 
 The server will start on `http://localhost:3000`
