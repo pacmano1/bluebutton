@@ -2,7 +2,7 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 // Fron the excellent https://github.com/amida-tech/blue-button project.
-const bb = require("@amida-tech/blue-button"). 
+const bb = require("@amida-tech/blue-button")
 
 // Create an express app
 const app = express();
