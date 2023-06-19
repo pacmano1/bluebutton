@@ -12,7 +12,7 @@ This project is a simple Node.js application that uses [Blue Button](https://git
 Clone the repository:
 
 ```bash
-git clone https://github.com/pacmano1/<your-username>/<your-repository>.git
+git clone https://github.com/pacmano1/bluebutton.git
 cd <your-repository>
 ```
 
