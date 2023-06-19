@@ -20,7 +20,7 @@ app.use(bodyParser.urlencoded({extended: true}));
 app.post('/bb', (req, res) => {
     try {
         // Decode the CDA from base64 format and parse it
-        const cdaxml = Buffer.from(req.body.cda, 'base64').toString('utf8');
+        const cdaxml = Buffer.from(req.body.cda.replace(/[\r\n]+/g, ''), 'base64').toString('utf8');
         const cdajson = JSON.stringify(bb.parse(cdaxml))
 
         // Prepare response
