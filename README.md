@@ -59,4 +59,11 @@ docker run -p 3000:3000 cda-parser
 
 The server will start on `http://localhost:3000`
 
+## License
+
+## License
+
+This project is licensed under the terms of the [MIT license](LICENSE).
+
+
 
