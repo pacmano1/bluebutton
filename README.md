@@ -1,6 +1,6 @@
 # Node.js CDA Parser
 
-This project is a simple Node.js application that uses [Blue Button](https://github.com/amida-tech/blue-button) to parse Continuity of Care Documents (CCDs). It exposes an endpoint where you can POST a base64 encoded CCD (also known as CDA) and it will return the parsed CCD as JSON.
+This project is a simple Node.js application that uses Amida Tech's excellenet [Blue Button](https://github.com/amida-tech/blue-button) to parse Continuity of Care Documents (CCDs). It exposes an endpoint where you can POST a base64 encoded CCD (also known as CDA) and it will return the parsed CCD as JSON.  This is not a fork of their project.
 
 ## Prerequisites
 
