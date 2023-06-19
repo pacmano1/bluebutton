@@ -36,7 +36,7 @@ POST a JSON payload to `http://localhost:3000/bb` with the following structure:
 
 ```json
 {
-  "cda": "<base64-encoded CDA>"  // REMOVE CRLFs!!!
+  "cda": "<base64-encoded CDA>"
 }
 ```
 
