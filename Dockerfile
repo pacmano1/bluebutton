@@ -24,4 +24,4 @@ EXPOSE 3000
 
 # Specify the command to run when the container starts
 # This command will start our application
-CMD [ "node", "bb.js" ]
+CMD [ "node", "bluebutton_node_listener.js" ]
