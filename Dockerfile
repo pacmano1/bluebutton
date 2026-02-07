@@ -1,7 +1,7 @@
 # Dockerfile
 
 # Use an official Node.js runtime as the base image
-FROM node:16-bullseye
+FROM node:20-bookworm
 
 # Set the working directory inside the container
 # This is the directory that our application's code will live within
