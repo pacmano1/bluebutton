@@ -4,7 +4,7 @@ This project is a simple Node.js application that uses Amida Tech's excellent [B
 
 ## Prerequisites
 
-- Node.js 20+
+- Node.js 18+
 - Docker (optional)
 
 ## Installation
